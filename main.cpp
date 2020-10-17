@@ -16,9 +16,6 @@ void findSubset(int A[], int n, int s) {
     }
 }
 
-
-
-
 int main () {
     int n;
     int s;
@@ -37,12 +34,4 @@ int main () {
     cout << endl;
 
     findSubset(A,n,s);
-
-
-
-
-    
-
-
-
 }
